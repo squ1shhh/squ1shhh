@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @squ1shhh
-- 👀 I’m interested in 2D animaations, horror and RPG games
+- 👀 I’m interested in 2D animations, horror and RPG games
 - 🌱 I’m currently learning game art and animation
 - 💞️ I’m looking to collaborate on small game projects like Game Jam with friends :)
 
